@@ -1,7 +1,7 @@
 {
   "name": "react-helmet-stuff",
   "description": "A document head manager for React",
-  "version": "6.1.0",
+  "version": "6.1.2",
   "main": "./lib/Helmet.js",
   "module": "./es/Helmet.js",
   "author": "colemcconnell <cole.mcconnell@stuff.co.nz>",
