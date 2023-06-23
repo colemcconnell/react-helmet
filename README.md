@@ -8,6 +8,8 @@
 [![Dependency Status](https://img.shields.io/david/nfl/react-helmet.svg?style=flat-square)](https://david-dm.org/nfl/react-helmet)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md#pull-requests)
 
+NOTE: Forked from react-helmet. Only difference is that it injects items into the top of <head> rather than into the bottom. Makes it possible for twitter/open graph web crawlers to find meta tags in head.
+
 This reusable React component will manage all of your changes to the document head.
 
 Helmet _takes_ plain HTML tags and _outputs_ plain HTML tags. It's dead simple, and React beginner friendly.
